@@ -99,7 +99,7 @@ header > .menu {
 }
 
 .projectpg {
-  height: 150vh;
+  height: 200vh;
   background: url('../img/mountain.jpg') no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
